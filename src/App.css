@@ -1,0 +1,41 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+body{
+  background: #dac8ea;
+  
+}
+
+.box {
+    text-align: center;
+    padding: 20px;
+}
+
+.inde {
+  margin: 20px;
+}
+
+.incby{
+  margin: 18px;
+}
+
+input[type="text"] {
+  width: 70px;
+  padding: 5px;
+}
+
+button {
+  width: 100px;
+  border-radius: 6px;
+  border: none;
+  background: #9c85c4;
+  margin: 10px;
+  color: white;
+  padding: 10px;
+}
+
+p{
+  color: rgb(57, 7, 134);
+}
